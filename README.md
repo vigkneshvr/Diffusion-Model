@@ -38,7 +38,7 @@ images at 512 × 512 resolution. The dataset includes three domains of cat, dog,
 <img width="641" alt="5_3 (1)" src="https://github.com/vigkneshvr/Diffusion-Model/assets/48051034/86a761d9-3254-4bf2-8939-65573dff98f1">
 <img width="641" alt="5_4 (1)" src="https://github.com/vigkneshvr/Diffusion-Model/assets/48051034/f75b2438-e1f2-41d9-ae53-7e27a567fb3b">
 
-Final Generated Images
+Final Generated Images\
 ![5_5 (1)](https://github.com/vigkneshvr/Diffusion-Model/assets/48051034/cbe5c891-d256-46a9-9d60-2466193c9d4a)
 
 
