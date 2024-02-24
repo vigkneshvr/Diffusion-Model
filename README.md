@@ -30,12 +30,17 @@ images at 512 × 512 resolution. The dataset includes three domains of cat, dog,
 | Enable FID calculation | --fid |
 |Enable visualization | --visualize |
 
-**Sample Results**
-![5_5 (1)](https://github.com/vigkneshvr/Diffusion-Model/assets/48051034/cbe5c891-d256-46a9-9d60-2466193c9d4a)
-<img width="641" alt="5_4 (1)" src="https://github.com/vigkneshvr/Diffusion-Model/assets/48051034/f75b2438-e1f2-41d9-ae53-7e27a567fb3b">
-<img width="641" alt="5_3 (1)" src="https://github.com/vigkneshvr/Diffusion-Model/assets/48051034/86a761d9-3254-4bf2-8939-65573dff98f1">
-![5_2 (1)](https://github.com/vigkneshvr/Diffusion-Model/assets/48051034/1f8ae7df-f2f4-4f4f-98b1-27cd4eab796e)
+**Sample Results**\
 ![5_1 (1)](https://github.com/vigkneshvr/Diffusion-Model/assets/48051034/0edcb4aa-d6a2-4411-b532-4b3da35415d4)
+
+![5_2 (1)](https://github.com/vigkneshvr/Diffusion-Model/assets/48051034/1f8ae7df-f2f4-4f4f-98b1-27cd4eab796e)
+
+<img width="641" alt="5_3 (1)" src="https://github.com/vigkneshvr/Diffusion-Model/assets/48051034/86a761d9-3254-4bf2-8939-65573dff98f1">
+<img width="641" alt="5_4 (1)" src="https://github.com/vigkneshvr/Diffusion-Model/assets/48051034/f75b2438-e1f2-41d9-ae53-7e27a567fb3b">
+
+Final Generated Images
+![5_5 (1)](https://github.com/vigkneshvr/Diffusion-Model/assets/48051034/cbe5c891-d256-46a9-9d60-2466193c9d4a)
+
 
 
 
