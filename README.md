@@ -12,3 +12,20 @@ images at 512 × 512 resolution. The dataset includes three domains of cat, dog,
 4) _requirements.txt_: Lists the packages that need to be installed for this assignment.
 5)_ run_in_colab.ipynb_: Provides command lines to train and evaluate your diffusion model in Google Colab.
 6) _trainer.py_: Provides code for training and evaluating the diffusion model.
+
+**Flags:**\
+| Configuration Parameters  | Example Flag Usage |
+| ------------- | ------------- |
+| Model image size | --image_size 32 |
+| Model batch size | --batch_size 32 |
+| Model data domain of AFHQ dataset |--data_class cat |
+| Directory where the model is stored | --save_folder ./results/ |
+| Path of a trained model | --load_path ./results/model.pt |
+| Directory from which to load dataset | --data_path ./data/train/ |
+| Number of iterations to train the model  | --train_steps 10000 |
+| Number of steps of diffusion process, T | --time_steps 300 |
+| Number of output channels of the first layer in U-Net | --unet_dim 16 |
+| Learning rate in the training | --learning_rate 1e-3 |
+| Frequency of periodic save, sample and (optionally) FID calculation | --save_and_sample_every 1000 |
+| Enable FID calculation | --fid |
+|Enable visualization | --visualize |
